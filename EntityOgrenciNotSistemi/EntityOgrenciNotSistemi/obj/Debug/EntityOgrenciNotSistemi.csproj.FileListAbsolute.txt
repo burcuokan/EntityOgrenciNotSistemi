@@ -1,0 +1,15 @@
+C:\Users\okan113\source\repos\EntityOgrenciNotSistemi\EntityOgrenciNotSistemi\bin\Debug\EntityOgrenciNotSistemi.exe.config
+C:\Users\okan113\source\repos\EntityOgrenciNotSistemi\EntityOgrenciNotSistemi\bin\Debug\EntityOgrenciNotSistemi.exe
+C:\Users\okan113\source\repos\EntityOgrenciNotSistemi\EntityOgrenciNotSistemi\bin\Debug\EntityOgrenciNotSistemi.pdb
+C:\Users\okan113\source\repos\EntityOgrenciNotSistemi\EntityOgrenciNotSistemi\bin\Debug\EntityFramework.dll
+C:\Users\okan113\source\repos\EntityOgrenciNotSistemi\EntityOgrenciNotSistemi\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\okan113\source\repos\EntityOgrenciNotSistemi\EntityOgrenciNotSistemi\bin\Debug\EntityFramework.xml
+C:\Users\okan113\source\repos\EntityOgrenciNotSistemi\EntityOgrenciNotSistemi\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\okan113\source\repos\EntityOgrenciNotSistemi\EntityOgrenciNotSistemi\obj\Debug\EntityOgrenciNotSistemi.csprojAssemblyReference.cache
+C:\Users\okan113\source\repos\EntityOgrenciNotSistemi\EntityOgrenciNotSistemi\obj\Debug\EntityOgrenciNotSistemi.Form1.resources
+C:\Users\okan113\source\repos\EntityOgrenciNotSistemi\EntityOgrenciNotSistemi\obj\Debug\EntityOgrenciNotSistemi.Properties.Resources.resources
+C:\Users\okan113\source\repos\EntityOgrenciNotSistemi\EntityOgrenciNotSistemi\obj\Debug\EntityOgrenciNotSistemi.csproj.GenerateResource.cache
+C:\Users\okan113\source\repos\EntityOgrenciNotSistemi\EntityOgrenciNotSistemi\obj\Debug\EntityOgrenciNotSistemi.csproj.CoreCompileInputs.cache
+C:\Users\okan113\source\repos\EntityOgrenciNotSistemi\EntityOgrenciNotSistemi\obj\Debug\EntityOgrenciNotSistemi.csproj.CopyComplete
+C:\Users\okan113\source\repos\EntityOgrenciNotSistemi\EntityOgrenciNotSistemi\obj\Debug\EntityOgrenciNotSistemi.exe
+C:\Users\okan113\source\repos\EntityOgrenciNotSistemi\EntityOgrenciNotSistemi\obj\Debug\EntityOgrenciNotSistemi.pdb
